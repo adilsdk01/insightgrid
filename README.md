@@ -24,4 +24,4 @@ An automated web tool that transforms raw Excel files into interactive, visual d
 
 ## 📧 Contact
 Created by **Adil** 
-- LinkedIn: [APNA_LINKEDIN_LINK_YAHAN_DALEIN]
+- LinkedIn: [www.linkedin.com/in/jam-adil-manzoor-038a1429b]
